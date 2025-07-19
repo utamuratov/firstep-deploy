@@ -1,1 +1,0 @@
-import"./chunk-RJNTS35V.js";var o=[{path:"",loadComponent:()=>import("./chunk-Y636JWX7.js")},{path:"add",loadComponent:()=>import("./chunk-TSJOSCVS.js")},{path:"edit/:id",loadComponent:()=>import("./chunk-TSJOSCVS.js")}];export{o as default};

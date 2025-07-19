@@ -1,1 +1,0 @@
-import{c as n,h as e,i as o}from"./chunk-GWOLZENT.js";function m(r={}){return new e({uz:new o(r.uz,[n.required]),ru:new o(r.ru,[n.required])})}function u(r){let a={};return Object.keys(r).forEach(t=>{!a[t]&&r.uz&&(a[t]=r.uz)}),a}export{m as a,u as b};

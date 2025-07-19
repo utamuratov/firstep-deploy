@@ -1,1 +1,0 @@
-import{a as i}from"./chunk-AAYNF2LC.js";import{b as a}from"./chunk-UM7JX4F5.js";import{Y as t,na as o}from"./chunk-63MFA3PC.js";var c=class e extends i{resourceUrl=a("api/admin/category");static \u0275fac=(()=>{let r;return function(n){return(r||(r=o(e)))(n||e)}})();static \u0275prov=t({token:e,factory:e.\u0275fac})};export{c as a};
