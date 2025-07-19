@@ -1,0 +1,1 @@
+var o={languages:"languages",categories:"categories",banners:"banners"};var e={settings:"settings",questionGroup:"question-group",question:"question",test:"test"};var s={login:"login",dashboard:"dashboard"};var a={form:"form",upload:"upload",list:"list"};export{s as a,a as b,o as c,e as d};

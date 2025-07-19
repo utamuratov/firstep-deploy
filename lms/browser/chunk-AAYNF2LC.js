@@ -1,0 +1,1 @@
+import{Zc as r,ca as t}from"./chunk-63MFA3PC.js";var l=class{http=t(r);query=e=>this.http.post(`${this.resourceUrl}/get-all`,e);submit(e){return this.http.post(`${this.resourceUrl}/create-update`,e)}detail(e){return this.http.get(`${this.resourceUrl}/get/${e}`)}delete(e){return this.http.delete(`${this.resourceUrl}/delete/${e}`)}};export{l as a};

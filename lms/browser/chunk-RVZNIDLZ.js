@@ -1,0 +1,1 @@
+import{d as r}from"./chunk-GWOLZENT.js";import{ca as t,hb as e}from"./chunk-63MFA3PC.js";var a=class o{controlContainer=t(r);formGroup;ngOnInit(){this.formGroup=this.controlContainer.control}static \u0275fac=function(n){return new(n||o)};static \u0275cmp=e({type:o,selectors:[["ng-component"]],decls:0,vars:0,template:function(n,s){},encapsulation:2})};export{a};
