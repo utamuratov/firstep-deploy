@@ -15,7 +15,7 @@ export default {
   {
     "renderMode": 2,
     "preload": [
-      "chunk-PYY3XQ7H.js",
+      "chunk-3QPMFQLV.js",
       "chunk-Z7SV22A2.js",
       "chunk-MAGCBL5F.js"
     ],
@@ -33,11 +33,11 @@ export default {
 ],
   entryPointToBrowserMapping: undefined,
   assets: {
-    'index.csr.html': {size: 8986, hash: '5ac424771003dfd1e883e6037ca33e82960014a0460fcec79de47cc7e735d00b', text: () => import('./assets-chunks/index_csr_html.mjs').then(m => m.default)},
-    'index.server.html': {size: 3176, hash: '95d52654be000b30090368d4dca6dc5527877ff8858af6594001941f8867ddc9', text: () => import('./assets-chunks/index_server_html.mjs').then(m => m.default)},
-    'index.html': {size: 47317, hash: '2b9a3a5bb5202ae7d5483611df0cc325aeeb9103e9f25ba5b0529db91fec3d29', text: () => import('./assets-chunks/index_html.mjs').then(m => m.default)},
-    'result/index.html': {size: 89741, hash: '9fb69bbe843980883a5f898706e9aa1158c947c225aeb668abbff7083f3f8951', text: () => import('./assets-chunks/result_index_html.mjs').then(m => m.default)},
-    'test/index.html': {size: 123429, hash: '07308ca129a975d54f1f437764906ce50bb600a9b8f44c6c859f95de8566e450', text: () => import('./assets-chunks/test_index_html.mjs').then(m => m.default)},
+    'index.csr.html': {size: 8986, hash: '8c91d3a17acc7b3c439f6b931f5996f13142ffea0483dd4a2bb7d4ef6ca00f92', text: () => import('./assets-chunks/index_csr_html.mjs').then(m => m.default)},
+    'index.server.html': {size: 3176, hash: 'c9590c85cb8582456b2851691955f7580e12674454a8b5f78585ce2dbc198ff5', text: () => import('./assets-chunks/index_server_html.mjs').then(m => m.default)},
+    'index.html': {size: 47317, hash: 'd5221b4f3ce00e68866bfcd9f10f814dc17844d2ad37cb77aada55a0ef50aef5', text: () => import('./assets-chunks/index_html.mjs').then(m => m.default)},
+    'result/index.html': {size: 89741, hash: '03c25ad16b46eb31ce56cdb3e08facc7dd1df81b1935674870445b35da4f3b1f', text: () => import('./assets-chunks/result_index_html.mjs').then(m => m.default)},
+    'test/index.html': {size: 123429, hash: '77b5a06545ced581f812170d53317e99059e10b10d6890a24d34449d7e25ab9e', text: () => import('./assets-chunks/test_index_html.mjs').then(m => m.default)},
     'styles-EKSKN2HZ.css': {size: 21669, hash: 'wA81Osr7PMM', text: () => import('./assets-chunks/styles-EKSKN2HZ_css.mjs').then(m => m.default)}
   },
 };
